@@ -9,8 +9,10 @@ body{
 	background:#CCCCCC;
 	padding: 30px;
 }
-
-h1{
+.titulo-princial{
+	padding-left: 20px;
+}
+.titulo-centralziado{
 	text-align:center;
 }
 
@@ -35,10 +37,6 @@ em strong{
 	background-color: #FFFFFF ;
 	padding: 20px;
 }
-h2{
-	text-align: center;
-}
-
 ul{
 	display: inline-block;
 	vertical-align: top;
